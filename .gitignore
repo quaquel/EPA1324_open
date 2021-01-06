@@ -125,3 +125,5 @@ dmypy.json
 .pyre/
 .DS_Store
 src/.DS_Store
+.project
+.pydevproject
